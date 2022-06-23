@@ -18,6 +18,7 @@ docker compose run --no-deps web rails new . --force --database=postgresql
 
 <br>
 <strong>Building the image:</strong>
+
 ```sh
 docker compose build
 ```
