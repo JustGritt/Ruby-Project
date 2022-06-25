@@ -1,6 +1,10 @@
 # Ruby Fitness Project (RFP)
 
-> <br>This is a school project in which we have to develop a website from scratch with Ruby on Rails. 
+> <br>This is a school project in which we have to develop a website from scratch with Ruby on Rails. Note that this project is not a real project, but a project that we have to develop in order to learn Ruby on Rails.
+> 
+> Note that to start the project, you need: 
+> ➤ Rails 5.2.8 or higher.
+> ➤ Ruby 2.5.9 or higher.
 > <br>
 
 </br>
