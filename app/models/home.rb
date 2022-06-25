@@ -1,2 +1,2 @@
-class Post < ApplicationRecord
+class Home < ApplicationRecord
 end

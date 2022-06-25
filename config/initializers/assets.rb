@@ -15,4 +15,4 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 # Rails.application.config.assets.precompile += %w( admin.js admin.css )
 
 # Add contact CSS to the asset load path.
-Rails.application.config.assets.precompile += %w( contact.css home.css )
+Rails.application.config.assets.precompile += %w( home.css forms.css user.css )
