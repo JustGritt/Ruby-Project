@@ -1,16 +1,15 @@
 # Ruby Fitness Project (RFP)
 
-> <br>
 > This is a school project in which we have to develop a website from scratch with Ruby on Rails. Note that this project is not a real project, but a project that we have to develop in order to learn Ruby on Rails.
 > <br><br>
 > To run this project you will need:
 > <br>➤ Rails 5.2.8 or higher.
 > <br>➤ Ruby 2.5.9 or higher.
 > <br>➤ Docker 1.12.6 or higher.
-> <br></br>
-<br>
+> <br>
 
 ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=green) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JustGritt/Ruby-Project) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JustGritt/Ruby-Project)
+<br>
 ![Logo](https://raw.githubusercontent.com/JustGritt/Ruby-Project/27802fb8b7f3209d35fae5d13a3dd78dfa3193ca/public/Logo.svg "Logo")
 
 # What is Ruby Fitness Project?
