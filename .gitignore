@@ -7,6 +7,22 @@
 # Ignore bundler config.
 /.bundle
 
+# Ignore secrets.
+*.pem
+*.key
+*.crt
+*.csr
+*.p12
+*.pfx
+
+# Ignore secrets old.
+*.pem.old
+*.key.old
+*.crt.old
+*.csr.old
+*.p12.old
+*.pfx.old
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*

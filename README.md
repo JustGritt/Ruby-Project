@@ -4,8 +4,8 @@
 > This is a school project in which we have to develop a website from scratch with Ruby on Rails. Note that this project is not a real project, but a project that we have to develop in order to learn Ruby on Rails.
 > <br><br>
 > To run this project you will need:
-> <br>➤ Rails 5.2.8 or higher.
-> <br>➤ Ruby 2.5.9 or higher.
+> <br>➤ Rails 6.1.6 or higher.
+> <br>➤ Ruby 3.1.2 or higher.
 > <br>➤ Docker 1.12.6 or higher.
 > <br></br>
 <br>
