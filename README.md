@@ -30,6 +30,18 @@ docker compose run --no-deps web rails new . --force --database=postgresql
 docker compose build
 ```
 
+**Install dependencies:**
+
+```sh
+bundle install 
+```
+
+**Note:** You will need to install the [postgresql](https://www.postgresql.org/download/) database driver if the bundle fails to install the postgresql gem. You can do this by running the following command:
+
+```sh
+sudo apt install postgresql-contrib libpq-dev
+```
+
 **Create the database:**
 
 ```sh

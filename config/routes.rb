@@ -15,7 +15,7 @@ Rails.application.routes.draw do
   delete "users/:id", to: "users#destroy"
 
   # Resources for the users controller
-  resources :users
+  # resources :users
   
   # Users routes
   # get "/signup",  to: "users#new"
